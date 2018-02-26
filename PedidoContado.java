@@ -1,4 +1,4 @@
-public class PedidoContado 
+public class PedidoContado extends Pedido 
 { 
  public PedidoContado(double importe)
  {
