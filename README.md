@@ -7,4 +7,4 @@ El cual trata de una aplicacion de pedidos de productos para clientes que pueden
 
 ## Diagrama de Clases a desarrollar
 
-<p align="center"><img src="http://200.107.241.6/patrones/clases.png"></p>
+<p align="center"><img src="http://200.107.241.6/patrones/dclases.png"></p>
